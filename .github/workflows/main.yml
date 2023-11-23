@@ -1,4 +1,4 @@
-name: "T-Sec Xcheck"
+name: "T-Sec  Xcheck"
 env:
   SERVER_URL: "http://43.137.6.227:8080"
   ACTION_TYPE: "SSCA"
